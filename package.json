@@ -1,7 +1,7 @@
 {
-  "name": "fortune",
-  "version": "0.1.0",
-  "description": "Fortune for Node.js",
+  "name": "fortune-one-fortu",
+  "version": "0.1.1",
+  "description": "Fortune for Node, with stuff longer that 140-characters stripped out.",
   "main": "./lib/fortune.js",
   "scripts": {
     "postinstall": "node lib/convert",
@@ -11,12 +11,13 @@
     "url": "https://github.com/williamfligor/fortune"
   },
   "keywords": [
-    "fortune"
+    "fortune",
+    "twitter"
   ],
   "author": "William Fligor <will@fligor.us> (http://williamfligor.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/williamfligor/fortune/issues"
+    "url": "https://github.com/jimkang/fortune/issues"
   },
-  "homepage": "https://github.com/williamfligor/fortune"
+  "homepage": "https://github.com/jimkang/fortune"
 }
