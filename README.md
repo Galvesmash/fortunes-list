@@ -20,6 +20,11 @@ Usage
     var fortuneSource = require('fortune-tweetable');
     console.log(fortuneSource.fortune());
 
+Tests
+-----
+
+    npm test
+
 License
 -------
 

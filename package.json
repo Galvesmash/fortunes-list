@@ -5,6 +5,7 @@
   "main": "./lib/fortune.js",
   "scripts": {
     "postinstall": "node lib/convert",
+    "test": "node tests/bareminimum.js"
   },
   "repository": {
     "type": "git",
