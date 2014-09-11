@@ -1,5 +1,5 @@
 {
-  "name": "fortune-one-fortu",
+  "name": "fortune-tweetable",
   "version": "0.1.1",
   "description": "Fortune for Node, with stuff longer that 140-characters stripped out.",
   "main": "./lib/fortune.js",
