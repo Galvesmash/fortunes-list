@@ -5,6 +5,7 @@
   "main": "./lib/fortune.js",
   "scripts": {
     "postinstall": "node lib/convert",
+    "publish-package": "npm publish --access public",
     "test": "node tests/bareminimum.js"
   },
   "repository": {
