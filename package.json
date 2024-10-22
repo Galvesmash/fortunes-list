@@ -1,6 +1,6 @@
 {
   "name": "fortunes-list",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Fortune for Node, with stuff longer that 140-characters stripped out. More functionlities.",
   "main": "./lib/fortune.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "fortune",
     "twitter"
   ],
-  "author": "William Fligor <will@fligor.us> (http://williamfligor.com/)",
+  "author": {
+    "name": "Gabriel Galves Taliatti",
+    "url": "https://galvesmash.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/galvesmash/fortunes-list/issues"
