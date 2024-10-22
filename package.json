@@ -1,7 +1,7 @@
 {
-  "name": "fortune-tweetable",
-  "version": "1.0.0",
-  "description": "Fortune for Node, with stuff longer that 140-characters stripped out.",
+  "name": "fortune-tweetable-list",
+  "version": "0.1.0",
+  "description": "Fortune for Node, with stuff longer that 140-characters stripped out. More functionlities.",
   "main": "./lib/fortune.js",
   "scripts": {
     "postinstall": "node lib/convert",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williamfligor/fortune"
+    "url": "https://github.com/galvesmash/fortunes-list"
   },
   "keywords": [
     "fortune",
@@ -18,7 +18,7 @@
   "author": "William Fligor <will@fligor.us> (http://williamfligor.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jimkang/fortune/issues"
+    "url": "https://github.com/galvesmash/fortunes-list/issues"
   },
-  "homepage": "https://github.com/jimkang/fortune"
+  "homepage": "https://github.com/galvesmash/fortunes-list#readme"
 }
