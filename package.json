@@ -1,6 +1,6 @@
 {
   "name": "fortunes-list",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fortune for Node, with stuff longer that 140-characters stripped out. More functionlities.",
   "main": "./lib/fortune.js",
   "scripts": {
